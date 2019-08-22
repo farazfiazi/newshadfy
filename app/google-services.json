@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087970234959",
+    "firebase_url": "https://shadfy-f1160.firebaseio.com",
+    "project_id": "shadfy-f1160",
+    "storage_bucket": "shadfy-f1160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087970234959:android:491712f6acf2959f",
+        "android_client_info": {
+          "package_name": "com.shadfy.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087970234959-foaud1mpc7cfi97arji7ljp9vltsr49j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqYNs1a9xOhikLTiN-7XUIUUnBpBfGDDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087970234959-foaud1mpc7cfi97arji7ljp9vltsr49j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
